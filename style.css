@@ -1,0 +1,50 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+    background-color:linen;
+    color:lightskyblue;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 100%;
+
+}
+
+.instruction
+{
+    background-color: lawngreen;
+    color: lemonchiffon;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    float: right;
+}
+
+#status
+{
+    background-color: lightblue;
+    color: lightcoral;
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+#restart
+{
+    background-color: lightpink;
+    color:lightseagreen ;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+canvas 
+  {
+      border:3px solid  magenta;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px ,maroon;
+  }
